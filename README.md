@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Christian 🇮🇹
 
-💼 Over 7 years in the startup environment developing software and both hiring and leading developers.
+Over 7 years in the startup environment developing software and both hiring and leading developers.
 Making my hands dirty writing MVP, production-quality and easy to test code, understanding and designing large and complex codebases and architectures.
 Leading development teams composed by 5 to 10 people, and being responsible for the quality of the technical deliverables.
 
