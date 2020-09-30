@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working at **finleap**
 
-- 🌱 I’m currently learning **Go and Elixir**
-
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/christianvarisco/)
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@cvarisco)
