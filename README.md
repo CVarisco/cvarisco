@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">Tech Lead and Software Developer from 🇮🇹</h3>
+<div align="center">
+  <img src="https://github.com/CVarisco/cvarisco/blob/master/header.png" alt="header"/>
+</div>
 
 - 🔭 I’m currently working at **finleap**
 
@@ -7,7 +8,7 @@
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@cvarisco)
 
-- 💬 Ask me about **Full stack web development**
+- 💬 Ask me about **Full stack web development**, **Leadership** and **Startups**
 
 - 📫 How to reach me **me@christianvarisco.com**
 
