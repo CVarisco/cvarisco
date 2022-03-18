@@ -6,12 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/christianvarisco/)
 
-- 📝 I regulary write articles on [Medium](https://medium.com/@cvarisco)
-
-- 💬 Ask me about **Full stack web development**, **Leadership** and **Startups**
-
-- 📫 How to reach me **me@christianvarisco.com**
-
 <h4>Social</h4>
 
 <p>
