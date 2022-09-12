@@ -2,7 +2,7 @@
   <img src="https://github.com/CVarisco/cvarisco/blob/master/header.png" alt="header"/>
 </div>
 
-- 🔭 I’m currently working at **finleap** as Director of Technology
+- 🔭 I’m currently working at [**zerocento.studio**](https://zerocento.studio) as Founder
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/christianvarisco/)
 
