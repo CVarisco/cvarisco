@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://github.com/CVarisco/cvarisco/blob/master/header.png" alt="header"/>
-</div>
-
-- 🔭 I’m currently working at [**zerocento.studio**](https://zerocento.studio) as Founder
+- 🔭 I’m currently working at [**zerocento.studio**](https://zerocento.studio) as co-founder
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/christianvarisco/)
 
