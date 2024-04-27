@@ -1,6 +1,6 @@
-- 🔭 I’m currently working at [**zerocento.studio**](https://zerocento.studio) as co-founder
+- 🔭 I’m currently working as Fractional CTO for early-stage startups!
 
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/christianvarisco/)
+- 👨‍💻 All of my work is available at [LinkedIn](https://www.linkedin.com/in/christianvarisco/)
 
 <h4>Social</h4>
 
